@@ -1,2 +1,2 @@
 # My-Resume
- Who i am: my job experience and what  services i offer.
+ Who I am: my job experience and  services i offer.
